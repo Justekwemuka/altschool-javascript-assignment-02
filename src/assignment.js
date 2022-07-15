@@ -23,7 +23,7 @@ function sumOfNumbers(arrayOfNumbers) {
     return total
 }
  assignment.sumOfNumbers = 
-   sumOfNumbers();
+   sumOfNumbers;
 
 /**
  * Challenge - 2
@@ -44,7 +44,7 @@ function countEvenNumbers(arrayOfNumbers) {
   return numbers;
 }
  assignment.countEvenNumbers =
-   countEvenNumbers();
+   countEvenNumbers;
 
 /**
  * Challenge - 3
